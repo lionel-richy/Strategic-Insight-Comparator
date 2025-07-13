@@ -1,0 +1,10 @@
+article_id,title,date,source,ai_model,strategic_score,market_opportunity,competitive_impact,sentiment,entities,trends,recommendation
+ART001,Amazon vs Shein,2024-01-15,Reuters,GPT-4o,8.5,9,8,Positive,"Amazon,Shein,Temu","Consumer behavior","Monitor closely"
+ART001,Amazon vs Shein,2024-01-15,Reuters,Claude-3,8.2,8.5,7.5,Positive,"Amazon,Shein","E-commerce competition","Analyze further"
+ART001,Amazon vs Shein,2024-01-15,Reuters,Gemini,8.8,9.2,8.2,Positive,"Amazon,Shein,Fast fashion","Act immediately"
+ART002,Tesla Innovation,2024-01-16,TechCrunch,GPT-4o,7.2,7,7.5,Neutral,"Tesla,EV,Innovation","Automotive industry","Monitor closely"
+ART002,Tesla Innovation,2024-01-16,TechCrunch,Claude-3,7.0,6.8,7.2,Neutral,"Tesla,Electric vehicles","Technology trends","Analyze further"
+ART002,Tesla Innovation,2024-01-16,TechCrunch,Gemini,7.5,7.2,7.8,Neutral,"Tesla,Autopilot","AI in automotive","Act immediately"
+ART003,Market Trends,2024-01-17,Bloomberg,GPT-4o,9.1,8,9,Positive,"Market,Trends,AI","Analyze further"
+ART003,Market Trends,2024-01-17,Bloomberg,Claude-3,8.9,7.8,8.8,Positive,"Market,AI,Economic forecast","Act immediately"
+ART003,Market Trends,2024-01-17,Bloomberg,Gemini,9.3,8.2,9.2,Positive,"Market,Trends,Finance","Monitor closely"
